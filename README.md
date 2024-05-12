@@ -1,4 +1,6 @@
 # 3c.CREATION FOR FILE TRANSFER USING TCP SOCKETS:
+## REG NO:212223230121
+## NAME:MANIKUMAR.DK
 ## AIM:
 To write a python program for creating File Transfer using TCP Sockets Links
 ## ALGORITHM:
